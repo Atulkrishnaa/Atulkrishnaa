@@ -12,4 +12,12 @@
 
 👨‍💼 Currently working as a junior iOS Developer at Celestial Systems Pvt Ltd.
 
-[![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atulkrishnaa&private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Atulkrishnaa/github-readme-stats)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat-square&logo=apple&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-008DE4?style=flat-square&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
+
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atulkrishnaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atulkrishnaa&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atulkrishnaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
